@@ -3,8 +3,6 @@
 #######################################
 
 # you must have python installed in order for this language to work you can download python at https://www.python.org/downloads/
-# based off CodePulse's tutorial Make YOUR OWN Programming Language https://www.youtube.com/playlist?list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD
-# I am using this as a learning experience to learn how to make a programming language, and have no hostile inetnetions. (i am not tyring to steal his code)
 # too lazy to write docs, so you can just look at the grammar rules or figure it out by looking at the code or something idk 
 # the grammar rules also show how to comment, and run files
 
